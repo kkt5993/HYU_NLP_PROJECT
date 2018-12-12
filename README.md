@@ -1,2 +1,2 @@
 # HYU_-NLP_Project
-## Connection Successfully secured and under control, over
+## Checking the second time
